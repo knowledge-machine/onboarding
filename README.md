@@ -9,7 +9,7 @@ This will evolve with time.
 ## Using Github
 
 * Short and suggestive project name (Use underscore or hyphen to separate words)
-* (Follow Git commit guides)[http://chris.beams.io/posts/git-commit]
+* [Follow Git commit guides](http://chris.beams.io/posts/git-commit)
   * Separate subject from body with a blank line
   * Limit the subject line to 50 characters
   * Capitalize the subject line
@@ -19,7 +19,7 @@ This will evolve with time.
   * Use the body to explain what and why vs. how
 
 * Keep the master branch always clean
-* New work should always be on a branch(lets call it `feature branch`)
+* New work should always be on a branch (lets call it `feature branch`)
 * Create `pull request` to merge features into master
   * Someone else should always review before merging to master
   * Never merge `master` to a feature branch
